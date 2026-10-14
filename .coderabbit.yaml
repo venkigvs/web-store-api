@@ -1,0 +1,5 @@
+version: "2"
+knowledge_base:
+  linked_repositories:
+    - path: "venkigvs/auth-core-lib"
+      description: "Shared corporate JWT authentication and token validation library"
